@@ -1,0 +1,14 @@
+{
+  "name": "namaste-react-project",
+  "version": "1.0.0",
+  "description": "This is namaste react by vaigarai",
+  "main": "App1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "vaigarai",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
